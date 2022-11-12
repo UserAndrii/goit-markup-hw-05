@@ -595,8 +595,7 @@ img {
     0px 2px 1px rgba(0, 0, 0, 0.2);
   border-radius: 4px;
 
-  transition: transform var(--transition-timing) var(--timing-function),
-    opacity var(--transition-timing) var(--timing-function);
+  transition: transform var(--transition-timing) var(--timing-function);
 }
 
 .modal-button {
